@@ -1,0 +1,7 @@
+{
+  "name": "ytdlff",
+  "description": "Backend for ytdlff that is responsible for starting mpv",
+  "path": "/usr/lib64/mozilla/native-messaging-hosts/ytdlff/backend.py",
+  "type": "stdio",
+  "allowed_extensions": [ "ytdlff@lajp.fi" ]
+}

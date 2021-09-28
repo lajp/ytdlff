@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="82.999207mm"
+   height="82.999207mm"
+   viewBox="0 0 82.999207 82.999207"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="ytdloff.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.1456448"
+     inkscape:cx="50.334519"
+     inkscape:cy="193.18202"
+     inkscape:window-width="1471"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="369.12256"
+       y="485.36441"
+       width="270.46851"
+       height="111.48727"
+       id="rect19401" />
+    <rect
+       x="381.18643"
+       y="508.93021"
+       width="60.903133"
+       height="76.994064"
+       id="rect4281" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-91.643845,-100.99008)">
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       id="path31"
+       cx="133.14345"
+       cy="142.48969"
+       r="41.499603" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4279"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4281);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.69678434,0,0,0.69678434,-159.50159,-212.46816)"
+       id="text19399"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19401);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="369.12305"
+         y="520.75586"
+         id="tspan26"><tspan
+           style="fill:#ffffff"
+           id="tspan24">YTDL</tspan></tspan></text>
+  </g>
+</svg>

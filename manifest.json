@@ -1,0 +1,33 @@
+{
+
+  "manifest_version": 2,
+  "name": "ytdlff",
+  "version": "1.1",
+
+  "description": "Automatically opens youtube videos in mpv",
+
+  "browser_specific_settings": {
+	  "gecko": {
+		  "id": "ytdlff@lajp.fi",
+		  "strict_min_version": "90.0"
+	  }
+  },
+
+  "permissions": ["nativeMessaging", "tabs"],
+
+  "background": {
+	  "scripts": ["background.js"]
+  },
+
+  "content_scripts": [
+	  {
+		  "matches": ["*://*.youtube.com/watch*"],
+		  "js": ["yt.js"]
+	  }
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/ytdlon.svg"
+  }
+
+}
